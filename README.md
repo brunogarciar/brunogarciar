@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Bruno Garcia
 
-<!--
-**brunogarciar/brunogarciar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Ciência da Computação  
+🐍 Desenvolvedor Python  
+🚀 Interesse em Automação, APIs, IA e Desenvolvimento de Software  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+- Python
+- APIs REST
+- Git & GitHub
+- Automação
+- Machine Learning (básico)
+- Lógica e Algoritmos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estudando
+- Consumo e Extração de APIs
+- Desenvolvimento Backend com Python
+- Inteligência Artificial
