@@ -25,3 +25,6 @@
 ## 📊 GitHub Stats
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunogarciar)](https://github.com/brunogarciar/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunogarciar&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunogarciar&show_icons=true&theme=radical)
