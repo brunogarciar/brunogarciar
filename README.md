@@ -24,4 +24,4 @@
 ##
 ## 📊 GitHub Stats
 
-[!(https://github-readme-stats.vercel.app/api?username=brunogarciar)](https://github.com/brunogarciar/github-readme-stats)
+
