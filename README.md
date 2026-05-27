@@ -9,7 +9,7 @@
 - APIs REST
 - Git & GitHub
 - Automação
-- Machine Learning (básico)
+- Machine Learning 
 - Lógica e Algoritmos
 
 ## 📚 Atualmente estudando
@@ -17,7 +17,7 @@
 - Desenvolvimento Backend com Python
 - Inteligência Artificial
 
-##
+### Backend
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
