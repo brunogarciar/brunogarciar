@@ -24,9 +24,4 @@
 ##
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brunogarciar&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogarciar&layout=compact&theme=tokyonight" />
-</p>
-
----
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunogarciar)](https://github.com/anuraghazra/github-readme-stats)
