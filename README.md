@@ -39,7 +39,11 @@
 ###
 <div align="left">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunogarciar&theme=tokyonight"/>
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunogarciar&show_icons=true&theme=tokyonight&locale=pt-br"/>
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brunogarciar&layout=compact&theme=tokyonight&locale=pt-br"/>
+
 
 </div>
 
