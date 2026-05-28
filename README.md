@@ -26,8 +26,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=brunogarciar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=brunogarciar&theme=dracula" height="150" />
-</div>
 
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=brunogarciar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=brunogarciar&theme=dracula" height="150" />
+
+</div>
