@@ -1,4 +1,22 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# Olá! 👋 Eu sou Bruno Garcia
+
+💻 Estudante de Ciência da Computação  
+🐍 Desenvolvedor Python & JavaScript 
+🚀 Interesse em Automação, APIs, IA e Desenvolvimento de Software  
+
+## 🚀 Tecnologias e Ferramentas
+- Python & JavaScript
+- APIs REST
+- Git & GitHub
+- Automação
+- Machine Learning 
+- Lógica e Algoritmos
+
+## 📚 Atualmente estudando
+- Consumo e Extração de APIs
+- Desenvolvimento Backend 
+- Inteligência Artificial
+- JavaScript
 
 ###
 
@@ -22,17 +40,13 @@
 </div>
   
 
-</div>
-
 ###
 
 
 <div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=brunogarciar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
-
-
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
 ## 
 
 <picture>
