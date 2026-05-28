@@ -20,7 +20,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js,python," />
 </div>
  
@@ -28,10 +28,10 @@
 
 ###
 
-<div align="center">
+<div align="left">
 
  <a href="https://www.linkedin.com/in/bruno-reis-garcia/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  
 </a>
   
 </div>
