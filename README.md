@@ -37,7 +37,7 @@
   
 
 ###
-<div align="center">
+<div align="left">
 
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunogarciar&show_icons=true&theme=tokyonight&locale=pt-br"/>
 
