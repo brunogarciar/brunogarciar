@@ -17,7 +17,7 @@
 - Desenvolvimento Full Stack 
 - Inteligência Artificial
 - Python
-- JavaScript
+- 
 
 ###
 
