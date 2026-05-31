@@ -1,5 +1,5 @@
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dcc83e6f-2d68-457c-8563-885d737e1eca" /># Olá! 👋 Eu sou Bruno Garcia
+# Olá! 👋 Eu sou Bruno Garcia
 
 💻 Estudante de Ciência da Computação  
 🐍 Desenvolvedor Python & JavaScript 
@@ -18,7 +18,8 @@
 - Desenvolvimento Full Stack 
 - Inteligência Artificial
 - Python
-
+- JavaScript
+  
 ###
 
 <div align="left">
