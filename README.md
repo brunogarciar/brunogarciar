@@ -3,7 +3,7 @@
 
 💻 Estudante de Ciência da Computação  
 🐍 Desenvolvedor Python & JavaScript 
-##
+
 🚀 Interesse em Automação, APIs, IA e Desenvolvimento de Software  
 
 ## 🚀 Tecnologias e Ferramentas
