@@ -3,12 +3,12 @@
 
 💻 Estudante de Ciência da Computação  
 
-🐍 Desenvolvedor Python & JavaScript 
+🐍 Desenvolvedor Python 
 
 🚀 Interesse em Automação, APIs, IA e Desenvolvimento de Software  
 
 ## 🚀 Tecnologias e Ferramentas
-- Python & JavaScript
+- Python 
 - APIs REST
 - Git & GitHub
 - Automação
@@ -20,12 +20,12 @@
 - Desenvolvimento Full Stack 
 - Inteligência Artificial
 - Python
-- JavaScript
+
   
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,python," />
+  <img src="https://skillicons.dev/icons?i=python," />
 </div>
  
 
